@@ -1,0 +1,20 @@
+# Virtual environment — never push this to GitHub
+venv/
+
+# Credentials — never expose these
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

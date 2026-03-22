@@ -1,0 +1,29 @@
+# PDF Extraction
+pdfplumber==0.10.3
+tabula-py==2.9.0
+
+# Data Processing
+pandas==2.2.1
+numpy==1.26.4
+
+# Database
+sqlalchemy==2.0.29
+psycopg2-binary==2.9.9
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.20.0
+webdriver-manager==4.0.1
+
+# Machine Learning
+scikit-learn==1.4.2
+prophet==1.1.5
+
+# Visualization (for notebooks)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Utilities
+python-dotenv==1.0.1
+schedule==1.2.1
