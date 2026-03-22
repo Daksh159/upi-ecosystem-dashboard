@@ -18,3 +18,8 @@ logs/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Raw government data files
+data/raw/pdfs/*.xlsx
+data/raw/pdfs/*.XLSX
+data/raw/pdfs/*.xls
